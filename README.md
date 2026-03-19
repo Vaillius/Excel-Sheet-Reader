@@ -1,7 +1,6 @@
 # Device Database App
 
-A Streamlit app that imports an Excel/CSV spreadsheet into a SQLite database and lets you browse, filter, and query it — including natural-language questions powered by Claude AI.
-
+A Streamlit app that imports an Excel/CSV spreadsheet into a SQLite database and lets you browse, filter, and query it
 ## Quick start
 
 ```bash
