@@ -111,7 +111,7 @@ if page == "📥  Import":
         st.markdown("""
 | Column | Required | Notes |
 |---|---|---|
-| `device_id` | ✅ Yes | Unique identifier for each device |
+| `device_id` | Optional | Unique identifier for each device |
 | `campus` | Optional | Top-level location grouping |
 | `building` | Optional | Building name or code |
 | `floor` | Optional | Floor number / name |
