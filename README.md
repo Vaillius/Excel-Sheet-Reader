@@ -19,8 +19,7 @@ The app opens at http://localhost:8501
 | Tab | What it does |
 |---|---|
 | **Import** | Upload `.xlsx`, `.xls`, or `.csv`; data is stored in `devices.db` |
-| **Browse & Filter** | Multiselect filters for campus / building / floor / room + free-text search |
-| **Query → Natural language** | Ask plain-English questions; answered by Claude AI |
+| **Browse & Filter** | Multiselect filters for campus / building / floor / room + free-text search ||
 | **Query → Raw SQL** | Write any `SELECT` against the `devices` table |
 
 ## Spreadsheet format
