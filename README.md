@@ -24,17 +24,7 @@ The app opens at http://localhost:8501
 
 ## Spreadsheet format
 
-Any column names are accepted. Recommended columns:
-
-| Column | Notes |
-|---|---|
-| `device_id` | unique device identifier |
-| `campus` | Top-level location |
-| `building` | Building name or code |
-| `floor` | Floor number / name |
-| `room` | Room number |
-| *(any others)* | Imported as-is (e.g. `type`, `status`, `ip_address`) |
-
+Any column names are accepted.
 Column names are normalised automatically (spaces → underscores, lowercased).
 
 ## Notes
