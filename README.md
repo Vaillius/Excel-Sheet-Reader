@@ -28,7 +28,7 @@ Any column names are accepted. Recommended columns:
 
 | Column | Notes |
 |---|---|
-| `device_id` | **Required** — unique device identifier |
+| `device_id` | unique device identifier |
 | `campus` | Top-level location |
 | `building` | Building name or code |
 | `floor` | Floor number / name |
